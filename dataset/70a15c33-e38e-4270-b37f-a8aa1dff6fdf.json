@@ -1,8 +1,8 @@
 {
   "patient": [
     {
-          "biradsAssis": "1",
-          "biradsPhys": "1",
+          "biradsAssis": "2",
+          "biradsPhys": "2",
           "cancerChance": "43.1"
     }
   ]
